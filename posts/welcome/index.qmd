@@ -1,0 +1,17 @@
+---
+title: "Hello World!"
+author: "Ignacio De Bonis"
+date: "2020-03-16"
+categories: [news]
+---
+
+
+![](thumbnail.jpg)
+
+Hello! My name is Ignacio and I graduated recently as an Electronics Engineer from Universidad Técnica Federico Santa María. I followed this career thinking that I would have the chance to work on observatories in Chile. Also I wanted to develop interesting DIY projects.
+
+Trust be told, I focused mostly on programming and data processing in my career, staying away from developing projects involving microcontrollers or analog electronics. Because of that, I wondered how amazing would be to work on my own projects with such elements.
+
+Also I have a lot of ideas that constantly keep getting forgotten and keep losing the old notebooks where I wrote them down. So that’s why I chose to write this blog, to have a sort of documentation of my projects and then replicate them.
+
+I thank you reader for coming here and read this little extract and hope you have the best motivation to finish your own projects to your heart’s content!

@@ -1,0 +1,21 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+
+---
+
+
+
+My name is Ignacio De Bonis. I hold a B.Sc. and Professional Degree in Electronics Engineering from Universidad Técnica Federico Santa María, Valparaíso, Chile.
+
+I held an internship at Paranal, where I got to know the instruments and the state of the art in astronomy! My work in there focused into protoypes and amateur electronics, which sparked the interest in me to develop projects of my own.
+
